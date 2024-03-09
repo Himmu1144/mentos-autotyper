@@ -12,6 +12,9 @@ If you have any trouble using mentos than you can watch this tutorial video demo
 
 https://youtu.be/Z6XZ0fFPcZw
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 *********** Shortcut keys ***************
 Ctrl + M  -  To click the Mentos! button 
 Shift + esc - To click the Clear Text button
