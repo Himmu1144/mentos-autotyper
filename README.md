@@ -1,28 +1,30 @@
-# mentos-autotyper
 
-Mentos is a free autotyping software that is specially designed for codetantra and other IDE'S out there. it helps you to paste your code with proper indentation.
+# Mentos Autotyper
 
-Mentos Download Link - https://mentos.great-site.net/
+If you too are tired of typing code in codetantra or are just annoyed of using those autotypers (eg. murgii etc) that almost never works then this is for you.
 
-Note : This version only works for windows
+Mentos is a free autotyping software that is specially designed for codetantra and other IDE'S out there. it helps you to bypass the pasting restrictions on these IDE'S and allows you to paste your code with proper indentation.
 
-************ How to use Mentos! *****************
+Within 3 months of it's release mentos got around 7000+ downloads
 
-If you have any trouble using mentos than you can watch this tutorial video demonstrating how to use mentos -
+
+## Demo Video 
 
 https://youtu.be/Z6XZ0fFPcZw
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+## How to Download Mentos Aututoyper
 
-*********** Shortcut keys ***************
-Ctrl + M  -  To click the Mentos! button 
-Shift + esc - To click the Clear Text button
+You can download it from -
+- The official website - https://mentos.great-site.net/
+- Softpedia - https://www.softpedia.com/get/Programming/File-Editors/Mentos.shtml
+## How to use Mentos!
 
-Use Esc key or F4 key to start autotyping your code
 
-it is 101% percent safe , (microsoft defender only alerts you because mentos hasn't been published officially on the net) thus microsoft shows a flag saying that it is from an unknown publisher 
+1: First you have to copy the code which you wanna autotype
 
-created by :
-Shreyans Singh    |  Himanshu Sharma
-@thesilentarrow  |  @himmu1144
+2: Paste the Code in mentos text box than click on Mentos!
+
+3: Now place your cursor wherever you wanna paste your code
+
+4: Finally either press the "esc" (escape key) or F4 key. 
+
