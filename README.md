@@ -5,7 +5,7 @@ If you too are tired of typing code in codetantra or are just annoyed of using t
 
 Mentos is a free autotyping software that is specially designed for codetantra and other IDE'S out there. it helps you to bypass the pasting restrictions on these IDE'S and allows you to paste your code with proper indentation.
 
-Within 3 months of it's release mentos got around **7,000 + Downloads**
+Within 3 months of it's release mentos got around **7,000+ Downloads**
 
 
 ## Demo Video 
